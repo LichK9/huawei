@@ -1,0 +1,3 @@
+/Users/lichuanhan/Codes/huawei/CMakeFiles/rebuild_cache.dir
+/Users/lichuanhan/Codes/huawei/CMakeFiles/edit_cache.dir
+/Users/lichuanhan/Codes/huawei/CMakeFiles/huawei.dir
